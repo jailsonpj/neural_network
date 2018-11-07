@@ -49,7 +49,14 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
     - [Projeto 2](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-2)
 
 ## Projeto-prático-3
-O projeto prático 3 consiste em praticar o aprendizado de neurônios perceptron.
+
+<br/>
+<p align="center">
+    <img src="http://4.bp.blogspot.com/-HWu5W-R7Jrs/T3JlzTyl_EI/AAAAAAAAAPo/GZ0UOSKTH7w/s1600/Golgi2.jpg
+O">
+</p>
+
+projeto prático 3 consiste em praticar o aprendizado de neurônios perceptron.
 Estes neurônios são conceitualmente simples e individualmente capazes de resolver problemas
 linearmente separáveis.
     - [Projeto 3](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-3)
