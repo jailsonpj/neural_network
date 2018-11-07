@@ -38,6 +38,9 @@ O projeto prático 1 consiste na exploração e visualização de dados
     
     
 ## Projeto-prático-2
+O projeto prático 1 consiste em praticar os conceitos de Machine Learning vistos até o momento, em especial aqueles relativos ao processo de Aprendizagem de Máquina.
+O dataset Breast Cancer Wisconsin (Diagnostic) Data Set pode ser encontrado: Repositório UCI
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 ## Projeto-prático-3
 O projeto prático 3 consiste em praticar o aprendizado de neurônios perceptron.
