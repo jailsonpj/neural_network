@@ -40,6 +40,9 @@ O projeto prático 1 consiste na exploração e visualização de dados
 ## Projeto-prático-2
 
 ## Projeto-prático-3
+O projeto prático 3 consiste em praticar o aprendizado de neurônios perceptron.
+Estes neurônios são conceitualmente simples e individualmente capazes de resolver problemas
+linearmente separáveis.
 
 ## Projeto-prático-4
 Três variedades de trigo (Kama, Rosa e Canadian) possuem sementes muito parecidas,
