@@ -49,7 +49,6 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
     - [Projeto 2](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-2)
 
 ## Projeto-prático-3
-
 <br/>
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sadssa.png/469px-Sadssa.png">
@@ -61,6 +60,10 @@ linearmente separáveis.
     - [Projeto 3](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-3)
 
 ## Projeto-prático-4
+<br/>
+<p align="center">
+    <img src="https://www.suino.com.br/wp-content/uploads/2018/01/trigo-e1533062060698.jpg">
+</p>
 Três variedades de trigo (Kama, Rosa e Canadian) possuem sementes muito parecidas,
 entretanto diferentes. Um grupo de pesquisadores poloneses coletou 70 amostras de cada
 tipo e, usando uma técnica particular de raio-X, coletou medidas geométricas destas
