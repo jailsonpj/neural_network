@@ -52,8 +52,7 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 <br/>
 <p align="center">
-    <img src="http://4.bp.blogspot.com/-HWu5W-R7Jrs/T3JlzTyl_EI/AAAAAAAAAPo/GZ0UOSKTH7w/s1600/Golgi2.jpg
-O">
+    <img src="http://4.bp.blogspot.com/-HWu5W-R7Jrs/T3JlzTyl_EI/AAAAAAAAAPo/GZ0UOSKTH7w/s1600/Golgi2.jpg">
 </p>
 
 projeto prático 3 consiste em praticar o aprendizado de neurônios perceptron.
