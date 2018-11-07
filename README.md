@@ -68,8 +68,7 @@ Três variedades de trigo (Kama, Rosa e Canadian) possuem sementes muito parecid
 entretanto diferentes. Um grupo de pesquisadores poloneses coletou 70 amostras de cada
 tipo e, usando uma técnica particular de raio-X, coletou medidas geométricas destas
 sementes, a citar: área, perímetro, compactude, comprimento, largura, coeficiente de
-assimetria e comprimento do sulco da semente.
-  - [Projeto 4](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-4)
-O dataset detalhado contendo as medições
+assimetria e comprimento do sulco da semente. O dataset detalhado contendo as medições
 pode ser encontrado em: https://archive.ics.uci.edu/ml/datasets/seeds#
+    - [Projeto 3](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-4)
 
