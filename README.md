@@ -34,7 +34,8 @@ As bibliotecas usadas nos projetos práticos foram:
 </p>
 
 O projeto prático 1 consiste na exploração e visualização de dados 
-    - [Projeto 1](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-1)
+    
+   - [Projeto 1](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-1)
     
     
 ## Projeto-prático-2
