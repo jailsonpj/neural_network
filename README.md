@@ -47,7 +47,8 @@ O projeto prático 1 consiste na exploração e visualização de dados
 O projeto prático 2 consiste em praticar conceitos de Machine Learning, em especial aqueles relativos ao processo de Aprendizagem de Máquina.
 O dataset Breast Cancer Wisconsin (Diagnostic) Data Set pode ser encontrado em: Repositório UCI
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
-    - [Projeto 2](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-2)
+    
+   - [Projeto 2](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-2)
 
 ## Projeto-prático-3
 <br/>
@@ -58,7 +59,8 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 projeto prático 3 consiste em praticar o aprendizado de neurônios perceptron.
 Estes neurônios são conceitualmente simples e individualmente capazes de resolver problemas
 linearmente separáveis.
-    - [Projeto 3](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-3)
+   
+  - [Projeto 3](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-3)
 
 ## Projeto-prático-4
 <br/>
@@ -71,5 +73,6 @@ tipo e, usando uma técnica particular de raio-X, coletou medidas geométricas d
 sementes, a citar: área, perímetro, compactude, comprimento, largura, coeficiente de
 assimetria e comprimento do sulco da semente. O dataset detalhado contendo as medições
 pode ser encontrado em: https://archive.ics.uci.edu/ml/datasets/seeds#
-    - [Projeto 4](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-4)
+    
+   - [Projeto 4](https://github.com/jailsonpj/neural_network/tree/master/projetos_praticos/projeto-4)
 
