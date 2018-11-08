@@ -22,10 +22,10 @@ Alunos : [Jackson Kelvin](https://github.com/jacksonks)
 
 ## Bibliotecas
 As bibliotecas usadas nos projetos práticos foram:
-    - [Scikit-learn](https://scikit-learn.org/stable/index.html)
-    - [Pandas](https://pandas.pydata.org/)
-    - [Numpy](http://www.numpy.org/)
-    - [Matplotlib](https://matplotlib.org/)
+   * - [Scikit-learn](https://scikit-learn.org/stable/index.html)
+   * - [Pandas](https://pandas.pydata.org/)
+   * - [Numpy](http://www.numpy.org/)
+   * - [Matplotlib](https://matplotlib.org/)
     
 ## Projeto-prático-1
 <br/>
