@@ -31,3 +31,11 @@ As bibliotecas usadas nos projetos práticos foram:
 </p>
 O projeto prático 1 consiste na exploração e visualização de dados 
     - [Projeto 1]()
+    
+## Projeto-prático-4
+Três variedades de trigo (Kama, Rosa e Canadian) possuem sementes muito parecidas,
+entretanto diferentes. Um grupo de pesquisadores poloneses coletou 70 amostras de cada
+tipo e, usando uma técnica particular de raio-X, coletou medidas geométricas destas
+sementes, a citar: área, perímetro, compactude, comprimento, largura, coeficiente de
+assimetria e comprimento do sulco da semente. O dataset detalhado contendo as medições
+pode ser encontrado em: https://archive.ics.uci.edu/ml/datasets/seeds#
