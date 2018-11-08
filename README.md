@@ -6,7 +6,7 @@
 
 # Redes Neurais Artificias 
  
-**DISCLAIMER**: *Repositório feito para os projetos práticos da disciplina de Redes Neurais Artificiais, dos cursos de Engenharia da Computação e Sistemas de Informação, da Escola Superior de Tecnologia da Universidade do Estado do Amazonas [(UEA)](http://www1.uea.edu.br/)*
+**DISCLAIMER**: *Repositório criado para os projetos práticos da disciplina de Redes Neurais Artificiais, dos cursos de Engenharia da Computação e Sistemas de Informação, da Escola Superior de Tecnologia da Universidade do Estado do Amazonas [(UEA)](http://www1.uea.edu.br/)*
 
 Professora da disciplina : [Elloá Bentes Guedes](https://github.com/elloa)
 
