@@ -934,3 +934,21 @@ accuracy_score(y,predict)
     0.9798994974874372
 
 
+
+# Conclusão
+
+*Levando em consideração os melhores modelos gerados, conforme o cálculo para uma certa quantidade de neurônios em uma camada oculta, o modelo que obteve a melhor acurácia foi o modelo que leva em consideração o alfa = 2. Onde o melhor modelo gerado pelo GrindSearchCV deu a acurácia com o valor igual a **0.98** com os seguintes parâmetros:*
+    
+   **- Activation:** relu
+   
+   **- hidden_layer_sizes:** 6
+   
+   **- Learning_rate_init:** 0.1
+   
+*As outras redes cujo o alfa com valores de 0.5 e 3, obtiveram uma acurácia de* **0.95** e **0.97**  
+
+
+
+```python
+
+```
