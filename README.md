@@ -36,6 +36,11 @@ As bibliotecas usadas nos projetos práticos foram:
 O projeto prático 1 consiste na exploração e visualização de dados 
     - [Projeto 1]()
     
+    
+## Projeto-prático-2
+
+## Projeto-prático-3
+
 ## Projeto-prático-4
 Três variedades de trigo (Kama, Rosa e Canadian) possuem sementes muito parecidas,
 entretanto diferentes. Um grupo de pesquisadores poloneses coletou 70 amostras de cada
