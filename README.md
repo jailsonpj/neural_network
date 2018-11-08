@@ -29,6 +29,7 @@ As bibliotecas usadas nos projetos práticos foram:
 <p align="center">
     <img src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif">
 </p>
+
 O projeto prático 1 consiste na exploração e visualização de dados 
     - [Projeto 1]()
     
